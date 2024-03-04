@@ -1,0 +1,29 @@
+{
+  "name": "binance-leaderboard-api",
+  "version": "1.0.1",
+  "description": "Binance Leaderboard API",
+  "main": "leaderboard.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quentingosset/binance-leaderboard-api.git"
+  },
+  "keywords": [
+    "binance",
+    "leaderboard",
+    "api",
+    "trading"
+  ],
+  "author": "Quentin Gosset",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quentingosset/binance-leaderboard-api/issues"
+  },
+  "homepage": "https://github.com/quentingosset/binance-leaderboard-api#readme",
+  "dependencies": {
+    "got": "^12.5.3"
+  }
+}
